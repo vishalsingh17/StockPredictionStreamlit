@@ -1,0 +1,8 @@
+On Prompt install Ephem:
+conda install -c anaconda ephem
+
+Install Pystan:
+conda install -c conda-forge pystan
+
+Finally install Fbprophet
+conda install -c conda-forge fbprophet
